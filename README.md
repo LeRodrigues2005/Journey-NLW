@@ -73,6 +73,7 @@ Endpoint para excluir uma atividade específica de uma viagem.
 3. **Configuração do Ambiente:**
 
    - Verifique e configure as conexões com bancos de dados ou serviços externos, conforme necessário.
+     - Mude o caminho para o banco de dados no arquivo `Journey\src\Journey.Infrastructure\JourneyDbContext.cs` conforme estiver localizado em seu sistema. 
 
 4. **Executar o Projeto:**
 
