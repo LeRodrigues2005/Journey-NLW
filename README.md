@@ -48,7 +48,13 @@ Endpoint para excluir uma atividade específica de uma viagem.
 
 - ASP.NET Core MVC
 - C#
-- Swagger para documentação da API
+- Swagger para documentação da <a href="https://swagger.io">API</a>
+
+## Visão geral da API
+
+<p align="center">
+<img src="https://github.com/LeRodrigues2005/Journey-NLW/assets/97632543/627521d3-3012-4b59-8782-b65d029e329b" alt="" width="900">
+</p>
 
 ## Instalação e Uso
 
